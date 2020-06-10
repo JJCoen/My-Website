@@ -1,0 +1,18 @@
+#nextsteps{
+  color: darkblue
+}
+
+.emphasized{
+  font-size: 0.9em
+}
+
+h1, .h1, h2, .h2 {
+    margin-top: 50px;
+}
+
+body{ /* Normal  */     font-size: 14px; }
+td {  /* Table  */      font-size: 14px; }
+title { font-size: 20px; color: darkred; }
+h1 { /* Header 1 */     font-size: 18px; color: DarkBlue; }
+h2 { /* Header 2 */     font-size: 16px; color: DarkBlue; }
+h3 { /* Header 3 */     font-size: 14px; font-family: "Times New Roman", Times, serif; color: DarkBlue; }
